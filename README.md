@@ -3,7 +3,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN)
 
 ## Link do protótipo do projeto
-em breve
+* https://twitter-clone-rho-khaki.vercel.app/
 
 ## Resumo do projeto
 
